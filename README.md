@@ -1,6 +1,6 @@
 
 
-<img align="right" alt="Coding" width="400" src="[https://raw.githubusercontent.com/akndmr/akndmr/main/coding.gi](https://38.media.tumblr.com/b280a388fc5c8b88a78912b47e482af6/tumblr_n7sb7eI5zg1sfhzt8o1_500.gif)f">
+<img align="right" alt="Coding" width="400" src="https://38.media.tumblr.com/b280a388fc5c8b88a78912b47e482af6/tumblr_n7sb7eI5zg1sfhzt8o1_500.gif">
 <h1 align="left">Hi 👋, I'm Saurabh Mate</h1>
 <h3 align="left">DevOps Engineer and Linux Admin from India</h3>
 
