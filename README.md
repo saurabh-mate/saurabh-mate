@@ -1,6 +1,4 @@
-================================================
-FILE: README.md
-================================================
+
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/akndmr/akndmr/main/coding.gif">
 <h1 align="left">Hi 👋, I'm Saurabh Mate</h1>
